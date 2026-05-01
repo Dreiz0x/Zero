@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color vespa_bg
+color vespa_yellow
+color white
+drawable btn_comenzar_new
+drawable button_rounded
+drawable ic_a_chat
+drawable ic_b_calc
+drawable ic_ballot
+drawable ic_book
+drawable ic_box
+drawable ic_c_institution
+drawable ic_calendar
+drawable ic_clipboard
+drawable ic_d_briefcase
+drawable ic_edit
+drawable ic_org
+drawable ic_person
+drawable ic_scales
+drawable ic_shield
+drawable welcome_background
+id btnComenzar
+id imgTitulo
+id imgVoeLogo
+layout activity_main
+layout activity_welcome
+mipmap ic_launcher
+mipmap ic_launcher_round
+style Theme.Vespa
+style Theme.Vespa.Welcome

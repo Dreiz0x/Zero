@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "dreiz0x.vespa.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_ic_d_briefcase.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/ic_d_briefcase.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_ic_calendar.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_ic_ballot.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/ic_ballot.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "dreiz0x.vespa.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_button_rounded.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/button_rounded.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "dreiz0x.vespa.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_ic_shield.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/ic_shield.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "dreiz0x.vespa.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "dreiz0x.vespa.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_ic_a_chat.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/ic_a_chat.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_ic_edit.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "dreiz0x.vespa.app-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_ic_book.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/ic_book.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_ic_org.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/ic_org.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "dreiz0x.vespa.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_ic_b_calc.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/ic_b_calc.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_ic_clipboard.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/ic_clipboard.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_welcome_background.png.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/welcome_background.png"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_ic_person.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "dreiz0x.vespa.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "dreiz0x.vespa.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_ic_c_institution.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/ic_c_institution.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/layout_activity_welcome.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_btn_comenzar_new.png.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/btn_comenzar_new.png"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_ic_box.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/ic_box.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/drawable_ic_scales.xml.flat",
+        "source": "dreiz0x.vespa.app-main-33:/drawable/ic_scales.xml"
+    },
+    {
+        "merged": "dreiz0x.vespa.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "dreiz0x.vespa.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
